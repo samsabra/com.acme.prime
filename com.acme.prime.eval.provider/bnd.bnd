@@ -5,7 +5,7 @@
 
 Bundle-Version:					1.0.0.${tstamp}
 Bundle-Description: 				\
-	Uses com.scireum.parssi to eval
+	Uses com.scireum.parssi to perform eval
 
 Private-Package: \
 	com.acme.prime.eval.provider,\
